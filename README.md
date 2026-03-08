@@ -1,7 +1,7 @@
 # Hey! I'm Ricard, welcome to my profile
 
 ## About Me
-💻 Passionate Software Engineer and Bioinformatician, former Geneticist
+💻 Passionate Software Engineer and Bioinformatician.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ricard-lambea-jane/)
 
